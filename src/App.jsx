@@ -20,7 +20,7 @@ import Rust from './Rust'
 import Ruby from './Ruby'
 import Css from './Css'
 import Go from './Go'
-import Chash from './chash'
+import Chash from './Chash'
 
 function App() {
   return (
