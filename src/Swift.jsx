@@ -3,7 +3,7 @@ import React from 'react'
 function Swift(){
     return(
         <div>
-            <h1>i am Swift page</h1>
+            <h1 style={{color:'white'}}>I am Swift page</h1>
         </div>
     )
 }

@@ -3,7 +3,7 @@ import React from 'react'
 function Kotlin(){
     return(
         <div>
-            <h1>i am Kotlin page</h1>
+            <h1 style={{color:'white'}}>I am Kotlin page</h1>
         </div>
     )
 }
